@@ -57,7 +57,7 @@ def solve(answer):
                 rightLetters.append(x)
                 rightSpots.append(guessItr.find(x))
 
-        pattern = []
+        pattern = [] #make pattern for wrongSpots 
         count=len(rightSpots)
 
         for y in range(count):
