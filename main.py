@@ -111,7 +111,7 @@ def solve(answer, boxes, guesses, wrongLetters, firstGuess):
 
 
 solve(answer, None, None, None, 0)
-#check_guess("filth", "tight")
+# check_guess("filth", "tight")
 
 
 # To implement:
